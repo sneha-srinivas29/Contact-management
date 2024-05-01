@@ -42,31 +42,6 @@ The app uses the following APIs to fetch data:
 
 # Screenshots 
 
-## Contact Page :-
-
-<img src="./contact_management_app/ScreenShots/Contact_Page.PNG"/>
-
-</br>
-<img src="./contact_management_app/ScreenShots/Contact_Page_2.PNG"/>
-
-</br>
-<img src="./contact_management_app/ScreenShots/Contact_Details.PNG"/>
-
-</br>
-<img src="./contact_management_app/ScreenShots/Contact_form.PNG"/>
-
-</br>
-
-
-## Charts And Maps Page :-
-
-<img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
-
-</br>
-<img src="./contact_management_app/ScreenShots/Charts_and_Map_2.PNG"/>
-
-</br>
-
 
 
 
